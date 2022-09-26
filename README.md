@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @honzikhk
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m @honzikhk, aspiring python developer
+- 🌱 I've been learning Python for almost a year now
+- I´m open to participate to any opensource project
